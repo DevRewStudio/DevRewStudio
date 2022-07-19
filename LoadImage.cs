@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ImageLoader : MonoBehaviour
+public class LoadImage : MonoBehaviour
 {
     public string url = "https://www.google.com/";
     public Renderer thisRenderer;
